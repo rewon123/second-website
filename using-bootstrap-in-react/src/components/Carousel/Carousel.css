@@ -1,0 +1,22 @@
+.sliding-bg{ 
+    background-image: linear-gradient(rgb(217, 255, 0) ,rgb(255, 196, 0));
+    border-radius: 10px;
+}
+   .carousel-item{
+       padding: 20px;
+   }
+   .price{
+       color: #e40808;
+   }
+   .btn-buy-now{
+    background-image: linear-gradient( to bottom, #ffb158 0%, #ff6a13 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.img{
+    height: 300px;
+    width: 100%;
+}
